@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "mern_i_week_6_7": "file:..",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hot-toast": "^2.5.2",
